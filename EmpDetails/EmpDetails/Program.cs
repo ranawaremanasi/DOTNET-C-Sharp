@@ -1,4 +1,5 @@
-﻿using System;
+//Use class created Employee and accept and print values for 10 employees(using loops concept)
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
