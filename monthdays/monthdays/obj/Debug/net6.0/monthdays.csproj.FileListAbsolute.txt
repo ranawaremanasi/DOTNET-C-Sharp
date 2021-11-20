@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\monthdays\monthdays\obj\Debug\net6.0\monthdays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\monthdays\monthdays\obj\Debug\net6.0\monthdays.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\monthdays\monthdays\obj\Debug\net6.0\monthdays.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\monthdays\monthdays\obj\Debug\net6.0\monthdays.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\monthdays\monthdays\bin\Debug\net6.0\monthdays.exe
+C:\Users\Manasi\source\repos\monthdays\monthdays\bin\Debug\net6.0\monthdays.deps.json
+C:\Users\Manasi\source\repos\monthdays\monthdays\bin\Debug\net6.0\monthdays.runtimeconfig.json
+C:\Users\Manasi\source\repos\monthdays\monthdays\bin\Debug\net6.0\monthdays.dll
+C:\Users\Manasi\source\repos\monthdays\monthdays\bin\Debug\net6.0\ref\monthdays.dll
+C:\Users\Manasi\source\repos\monthdays\monthdays\bin\Debug\net6.0\monthdays.pdb
+C:\Users\Manasi\source\repos\monthdays\monthdays\obj\Debug\net6.0\monthdays.dll
+C:\Users\Manasi\source\repos\monthdays\monthdays\obj\Debug\net6.0\ref\monthdays.dll
+C:\Users\Manasi\source\repos\monthdays\monthdays\obj\Debug\net6.0\monthdays.pdb
+C:\Users\Manasi\source\repos\monthdays\monthdays\obj\Debug\net6.0\monthdays.genruntimeconfig.cache
+C:\Users\Manasi\source\repos\monthdays\monthdays\obj\Debug\net6.0\monthdays.csproj.AssemblyReference.cache
