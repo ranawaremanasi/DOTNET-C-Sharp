@@ -1,4 +1,8 @@
-﻿using System;
+/*
+Write a function to accept two numbers from user and divide nos. handle different types of exceptions possible in the code. Verify in main.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
