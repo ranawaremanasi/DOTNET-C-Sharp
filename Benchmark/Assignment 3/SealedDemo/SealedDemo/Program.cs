@@ -1,4 +1,6 @@
-﻿namespace SealedDemo
+//Create parent class and child class use sealed keyword for class and dummy method and verify behavior.
+
+namespace SealedDemo
 {
     class Parent
     {
