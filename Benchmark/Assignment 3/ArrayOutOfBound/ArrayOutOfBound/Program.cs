@@ -1,4 +1,6 @@
-﻿using System;
+//Create an array try to accept values from user handle IndexOutOfBounds Exception.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
