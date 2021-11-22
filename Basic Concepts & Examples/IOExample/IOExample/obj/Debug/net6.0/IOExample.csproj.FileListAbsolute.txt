@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\IOExample\IOExample\bin\Debug\net6.0\IOExample.exe
+C:\Users\Manasi\source\repos\IOExample\IOExample\bin\Debug\net6.0\IOExample.deps.json
+C:\Users\Manasi\source\repos\IOExample\IOExample\bin\Debug\net6.0\IOExample.runtimeconfig.json
+C:\Users\Manasi\source\repos\IOExample\IOExample\bin\Debug\net6.0\IOExample.dll
+C:\Users\Manasi\source\repos\IOExample\IOExample\bin\Debug\net6.0\ref\IOExample.dll
+C:\Users\Manasi\source\repos\IOExample\IOExample\bin\Debug\net6.0\IOExample.pdb
+C:\Users\Manasi\source\repos\IOExample\IOExample\obj\Debug\net6.0\IOExample.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\IOExample\IOExample\obj\Debug\net6.0\IOExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\IOExample\IOExample\obj\Debug\net6.0\IOExample.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\IOExample\IOExample\obj\Debug\net6.0\IOExample.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\IOExample\IOExample\obj\Debug\net6.0\IOExample.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\IOExample\IOExample\obj\Debug\net6.0\IOExample.dll
+C:\Users\Manasi\source\repos\IOExample\IOExample\obj\Debug\net6.0\ref\IOExample.dll
+C:\Users\Manasi\source\repos\IOExample\IOExample\obj\Debug\net6.0\IOExample.pdb
+C:\Users\Manasi\source\repos\IOExample\IOExample\obj\Debug\net6.0\IOExample.genruntimeconfig.cache

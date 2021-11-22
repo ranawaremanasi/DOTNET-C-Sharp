@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\bin\Debug\net6.0\arrayexception.exe
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\bin\Debug\net6.0\arrayexception.deps.json
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\bin\Debug\net6.0\arrayexception.runtimeconfig.json
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\bin\Debug\net6.0\arrayexception.dll
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\bin\Debug\net6.0\ref\arrayexception.dll
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\bin\Debug\net6.0\arrayexception.pdb
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\obj\Debug\net6.0\arrayexception.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\obj\Debug\net6.0\arrayexception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\obj\Debug\net6.0\arrayexception.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\obj\Debug\net6.0\arrayexception.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\obj\Debug\net6.0\arrayexception.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\obj\Debug\net6.0\arrayexception.dll
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\obj\Debug\net6.0\ref\arrayexception.dll
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\obj\Debug\net6.0\arrayexception.pdb
+C:\Users\Manasi\source\repos\arrayexception\arrayexception\obj\Debug\net6.0\arrayexception.genruntimeconfig.cache
