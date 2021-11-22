@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\bin\Debug\net6.0\IPrintable.exe
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\bin\Debug\net6.0\IPrintable.deps.json
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\bin\Debug\net6.0\IPrintable.runtimeconfig.json
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\bin\Debug\net6.0\IPrintable.dll
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\bin\Debug\net6.0\ref\IPrintable.dll
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\bin\Debug\net6.0\IPrintable.pdb
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\obj\Debug\net6.0\IPrintable.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\obj\Debug\net6.0\IPrintable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\obj\Debug\net6.0\IPrintable.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\obj\Debug\net6.0\IPrintable.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\obj\Debug\net6.0\IPrintable.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\obj\Debug\net6.0\IPrintable.dll
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\obj\Debug\net6.0\ref\IPrintable.dll
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\obj\Debug\net6.0\IPrintable.pdb
+C:\Users\Manasi\source\repos\IPrintable\IPrintable\obj\Debug\net6.0\IPrintable.genruntimeconfig.cache
