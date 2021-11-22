@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\emp\emp\bin\Debug\net6.0\emp.exe
+C:\Users\Manasi\source\repos\emp\emp\bin\Debug\net6.0\emp.deps.json
+C:\Users\Manasi\source\repos\emp\emp\bin\Debug\net6.0\emp.runtimeconfig.json
+C:\Users\Manasi\source\repos\emp\emp\bin\Debug\net6.0\emp.dll
+C:\Users\Manasi\source\repos\emp\emp\bin\Debug\net6.0\ref\emp.dll
+C:\Users\Manasi\source\repos\emp\emp\bin\Debug\net6.0\emp.pdb
+C:\Users\Manasi\source\repos\emp\emp\obj\Debug\net6.0\emp.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\emp\emp\obj\Debug\net6.0\emp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\emp\emp\obj\Debug\net6.0\emp.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\emp\emp\obj\Debug\net6.0\emp.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\emp\emp\obj\Debug\net6.0\emp.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\emp\emp\obj\Debug\net6.0\emp.dll
+C:\Users\Manasi\source\repos\emp\emp\obj\Debug\net6.0\ref\emp.dll
+C:\Users\Manasi\source\repos\emp\emp\obj\Debug\net6.0\emp.pdb
+C:\Users\Manasi\source\repos\emp\emp\obj\Debug\net6.0\emp.genruntimeconfig.cache
