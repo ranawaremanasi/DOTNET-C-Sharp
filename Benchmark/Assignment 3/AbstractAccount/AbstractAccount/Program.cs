@@ -1,4 +1,10 @@
-﻿using System;
+/*
+Create abstract class Account, create 3 child classes Saving, Current and FD account. 
+Write abstract method calculate interest and implement it in child classes. 
+Create a function findinterest() accepting Account as polymorphic argument pass all child types and verify working in main. 
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
