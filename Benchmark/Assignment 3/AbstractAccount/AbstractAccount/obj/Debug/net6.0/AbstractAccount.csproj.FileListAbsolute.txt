@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\bin\Debug\net6.0\AbstractAccount.exe
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\bin\Debug\net6.0\AbstractAccount.deps.json
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\bin\Debug\net6.0\AbstractAccount.runtimeconfig.json
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\bin\Debug\net6.0\AbstractAccount.dll
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\bin\Debug\net6.0\ref\AbstractAccount.dll
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\bin\Debug\net6.0\AbstractAccount.pdb
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\obj\Debug\net6.0\AbstractAccount.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\obj\Debug\net6.0\AbstractAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\obj\Debug\net6.0\AbstractAccount.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\obj\Debug\net6.0\AbstractAccount.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\obj\Debug\net6.0\AbstractAccount.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\obj\Debug\net6.0\AbstractAccount.dll
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\obj\Debug\net6.0\ref\AbstractAccount.dll
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\obj\Debug\net6.0\AbstractAccount.pdb
+C:\Users\Manasi\source\repos\AbstractAccount\AbstractAccount\obj\Debug\net6.0\AbstractAccount.genruntimeconfig.cache
