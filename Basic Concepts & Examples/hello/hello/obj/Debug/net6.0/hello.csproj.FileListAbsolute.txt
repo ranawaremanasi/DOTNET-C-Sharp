@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\hello\hello\bin\Debug\net6.0\hello.exe
+C:\Users\Manasi\source\repos\hello\hello\bin\Debug\net6.0\hello.deps.json
+C:\Users\Manasi\source\repos\hello\hello\bin\Debug\net6.0\hello.runtimeconfig.json
+C:\Users\Manasi\source\repos\hello\hello\bin\Debug\net6.0\hello.dll
+C:\Users\Manasi\source\repos\hello\hello\bin\Debug\net6.0\ref\hello.dll
+C:\Users\Manasi\source\repos\hello\hello\bin\Debug\net6.0\hello.pdb
+C:\Users\Manasi\source\repos\hello\hello\obj\Debug\net6.0\hello.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\hello\hello\obj\Debug\net6.0\hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\hello\hello\obj\Debug\net6.0\hello.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\hello\hello\obj\Debug\net6.0\hello.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\hello\hello\obj\Debug\net6.0\hello.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\hello\hello\obj\Debug\net6.0\hello.dll
+C:\Users\Manasi\source\repos\hello\hello\obj\Debug\net6.0\ref\hello.dll
+C:\Users\Manasi\source\repos\hello\hello\obj\Debug\net6.0\hello.pdb
+C:\Users\Manasi\source\repos\hello\hello\obj\Debug\net6.0\hello.genruntimeconfig.cache
