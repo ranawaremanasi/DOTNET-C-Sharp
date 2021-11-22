@@ -1,0 +1,14 @@
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\bin\Debug\net6.0\GenericDemo.exe
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\bin\Debug\net6.0\GenericDemo.deps.json
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\bin\Debug\net6.0\GenericDemo.runtimeconfig.json
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\bin\Debug\net6.0\GenericDemo.dll
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\bin\Debug\net6.0\ref\GenericDemo.dll
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\bin\Debug\net6.0\GenericDemo.pdb
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\obj\Debug\net6.0\GenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\obj\Debug\net6.0\GenericDemo.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\obj\Debug\net6.0\GenericDemo.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\obj\Debug\net6.0\GenericDemo.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\obj\Debug\net6.0\GenericDemo.dll
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\obj\Debug\net6.0\ref\GenericDemo.dll
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\obj\Debug\net6.0\GenericDemo.pdb
+C:\Users\Manasi\source\repos\GenericDemo\GenericDemo\obj\Debug\net6.0\GenericDemo.genruntimeconfig.cache
