@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\bin\Debug\net6.0\ListStudent.exe
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\bin\Debug\net6.0\ListStudent.deps.json
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\bin\Debug\net6.0\ListStudent.runtimeconfig.json
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\bin\Debug\net6.0\ListStudent.dll
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\bin\Debug\net6.0\ref\ListStudent.dll
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\bin\Debug\net6.0\ListStudent.pdb
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\obj\Debug\net6.0\ListStudent.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\obj\Debug\net6.0\ListStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\obj\Debug\net6.0\ListStudent.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\obj\Debug\net6.0\ListStudent.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\obj\Debug\net6.0\ListStudent.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\obj\Debug\net6.0\ListStudent.dll
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\obj\Debug\net6.0\ref\ListStudent.dll
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\obj\Debug\net6.0\ListStudent.pdb
+C:\Users\Manasi\source\repos\ListStudent\ListStudent\obj\Debug\net6.0\ListStudent.genruntimeconfig.cache
