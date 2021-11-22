@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\paramarr\paramarr\bin\Debug\net6.0\paramarr.exe
+C:\Users\Manasi\source\repos\paramarr\paramarr\bin\Debug\net6.0\paramarr.deps.json
+C:\Users\Manasi\source\repos\paramarr\paramarr\bin\Debug\net6.0\paramarr.runtimeconfig.json
+C:\Users\Manasi\source\repos\paramarr\paramarr\bin\Debug\net6.0\paramarr.dll
+C:\Users\Manasi\source\repos\paramarr\paramarr\bin\Debug\net6.0\ref\paramarr.dll
+C:\Users\Manasi\source\repos\paramarr\paramarr\bin\Debug\net6.0\paramarr.pdb
+C:\Users\Manasi\source\repos\paramarr\paramarr\obj\Debug\net6.0\paramarr.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\paramarr\paramarr\obj\Debug\net6.0\paramarr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\paramarr\paramarr\obj\Debug\net6.0\paramarr.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\paramarr\paramarr\obj\Debug\net6.0\paramarr.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\paramarr\paramarr\obj\Debug\net6.0\paramarr.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\paramarr\paramarr\obj\Debug\net6.0\paramarr.dll
+C:\Users\Manasi\source\repos\paramarr\paramarr\obj\Debug\net6.0\ref\paramarr.dll
+C:\Users\Manasi\source\repos\paramarr\paramarr\obj\Debug\net6.0\paramarr.pdb
+C:\Users\Manasi\source\repos\paramarr\paramarr\obj\Debug\net6.0\paramarr.genruntimeconfig.cache
