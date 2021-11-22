@@ -1,0 +1,14 @@
+C:\Users\Manasi\source\repos\throwexample\throwexample\obj\Debug\net6.0\throwexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\throwexample\throwexample\obj\Debug\net6.0\throwexample.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\throwexample\throwexample\obj\Debug\net6.0\throwexample.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\throwexample\throwexample\obj\Debug\net6.0\throwexample.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\throwexample\throwexample\bin\Debug\net6.0\throwexample.exe
+C:\Users\Manasi\source\repos\throwexample\throwexample\bin\Debug\net6.0\throwexample.deps.json
+C:\Users\Manasi\source\repos\throwexample\throwexample\bin\Debug\net6.0\throwexample.runtimeconfig.json
+C:\Users\Manasi\source\repos\throwexample\throwexample\bin\Debug\net6.0\throwexample.dll
+C:\Users\Manasi\source\repos\throwexample\throwexample\bin\Debug\net6.0\ref\throwexample.dll
+C:\Users\Manasi\source\repos\throwexample\throwexample\bin\Debug\net6.0\throwexample.pdb
+C:\Users\Manasi\source\repos\throwexample\throwexample\obj\Debug\net6.0\throwexample.dll
+C:\Users\Manasi\source\repos\throwexample\throwexample\obj\Debug\net6.0\ref\throwexample.dll
+C:\Users\Manasi\source\repos\throwexample\throwexample\obj\Debug\net6.0\throwexample.pdb
+C:\Users\Manasi\source\repos\throwexample\throwexample\obj\Debug\net6.0\throwexample.genruntimeconfig.cache

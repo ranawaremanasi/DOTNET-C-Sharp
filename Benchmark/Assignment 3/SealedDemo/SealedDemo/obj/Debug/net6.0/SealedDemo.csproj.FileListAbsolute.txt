@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\bin\Debug\net6.0\SealedDemo.exe
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\bin\Debug\net6.0\SealedDemo.deps.json
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\bin\Debug\net6.0\SealedDemo.runtimeconfig.json
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\bin\Debug\net6.0\SealedDemo.dll
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\bin\Debug\net6.0\ref\SealedDemo.dll
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\bin\Debug\net6.0\SealedDemo.pdb
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\obj\Debug\net6.0\SealedDemo.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\obj\Debug\net6.0\SealedDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\obj\Debug\net6.0\SealedDemo.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\obj\Debug\net6.0\SealedDemo.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\obj\Debug\net6.0\SealedDemo.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\obj\Debug\net6.0\SealedDemo.dll
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\obj\Debug\net6.0\ref\SealedDemo.dll
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\obj\Debug\net6.0\SealedDemo.pdb
+C:\Users\Manasi\source\repos\SealedDemo\SealedDemo\obj\Debug\net6.0\SealedDemo.genruntimeconfig.cache
