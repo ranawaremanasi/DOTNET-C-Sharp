@@ -1,4 +1,6 @@
-﻿using System;
+//Use throw keyword to verify working of throw.
+
+using System;
 
 namespace throwExample
 {
