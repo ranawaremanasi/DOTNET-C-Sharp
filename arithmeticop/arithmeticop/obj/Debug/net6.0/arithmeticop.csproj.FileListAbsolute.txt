@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\obj\Debug\net6.0\arithmeticop.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\obj\Debug\net6.0\arithmeticop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\obj\Debug\net6.0\arithmeticop.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\obj\Debug\net6.0\arithmeticop.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\obj\Debug\net6.0\arithmeticop.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\bin\Debug\net6.0\arithmeticop.exe
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\bin\Debug\net6.0\arithmeticop.deps.json
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\bin\Debug\net6.0\arithmeticop.runtimeconfig.json
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\bin\Debug\net6.0\arithmeticop.dll
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\bin\Debug\net6.0\ref\arithmeticop.dll
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\bin\Debug\net6.0\arithmeticop.pdb
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\obj\Debug\net6.0\arithmeticop.dll
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\obj\Debug\net6.0\ref\arithmeticop.dll
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\obj\Debug\net6.0\arithmeticop.pdb
+C:\Users\Manasi\source\repos\arithmeticop\arithmeticop\obj\Debug\net6.0\arithmeticop.genruntimeconfig.cache
