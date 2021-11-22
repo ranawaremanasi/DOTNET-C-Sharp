@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\enum\enum\bin\Debug\net6.0\enum.exe
+C:\Users\Manasi\source\repos\enum\enum\bin\Debug\net6.0\enum.deps.json
+C:\Users\Manasi\source\repos\enum\enum\bin\Debug\net6.0\enum.runtimeconfig.json
+C:\Users\Manasi\source\repos\enum\enum\bin\Debug\net6.0\enum.dll
+C:\Users\Manasi\source\repos\enum\enum\bin\Debug\net6.0\ref\enum.dll
+C:\Users\Manasi\source\repos\enum\enum\bin\Debug\net6.0\enum.pdb
+C:\Users\Manasi\source\repos\enum\enum\obj\Debug\net6.0\enum.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\enum\enum\obj\Debug\net6.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\enum\enum\obj\Debug\net6.0\enum.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\enum\enum\obj\Debug\net6.0\enum.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\enum\enum\obj\Debug\net6.0\enum.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\enum\enum\obj\Debug\net6.0\enum.dll
+C:\Users\Manasi\source\repos\enum\enum\obj\Debug\net6.0\ref\enum.dll
+C:\Users\Manasi\source\repos\enum\enum\obj\Debug\net6.0\enum.pdb
+C:\Users\Manasi\source\repos\enum\enum\obj\Debug\net6.0\enum.genruntimeconfig.cache

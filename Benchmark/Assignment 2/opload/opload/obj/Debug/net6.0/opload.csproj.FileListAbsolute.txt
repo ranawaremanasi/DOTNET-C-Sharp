@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\opload\opload\obj\Debug\net6.0\opload.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\opload\opload\obj\Debug\net6.0\opload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\opload\opload\obj\Debug\net6.0\opload.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\opload\opload\obj\Debug\net6.0\opload.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\opload\opload\obj\Debug\net6.0\opload.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\opload\opload\bin\Debug\net6.0\opload.exe
+C:\Users\Manasi\source\repos\opload\opload\bin\Debug\net6.0\opload.deps.json
+C:\Users\Manasi\source\repos\opload\opload\bin\Debug\net6.0\opload.runtimeconfig.json
+C:\Users\Manasi\source\repos\opload\opload\bin\Debug\net6.0\opload.dll
+C:\Users\Manasi\source\repos\opload\opload\bin\Debug\net6.0\ref\opload.dll
+C:\Users\Manasi\source\repos\opload\opload\bin\Debug\net6.0\opload.pdb
+C:\Users\Manasi\source\repos\opload\opload\obj\Debug\net6.0\opload.dll
+C:\Users\Manasi\source\repos\opload\opload\obj\Debug\net6.0\ref\opload.dll
+C:\Users\Manasi\source\repos\opload\opload\obj\Debug\net6.0\opload.pdb
+C:\Users\Manasi\source\repos\opload\opload\obj\Debug\net6.0\opload.genruntimeconfig.cache
