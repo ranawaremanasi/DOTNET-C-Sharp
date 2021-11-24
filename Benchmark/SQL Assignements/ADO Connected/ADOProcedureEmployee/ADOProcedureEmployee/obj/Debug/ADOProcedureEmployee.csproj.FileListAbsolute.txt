@@ -1,0 +1,8 @@
+C:\Users\Manasi\source\repos\ADOProcedureEmployee\ADOProcedureEmployee\bin\Debug\ADOProcedureEmployee.exe.config
+C:\Users\Manasi\source\repos\ADOProcedureEmployee\ADOProcedureEmployee\bin\Debug\ADOProcedureEmployee.exe
+C:\Users\Manasi\source\repos\ADOProcedureEmployee\ADOProcedureEmployee\bin\Debug\ADOProcedureEmployee.pdb
+C:\Users\Manasi\source\repos\ADOProcedureEmployee\ADOProcedureEmployee\obj\Debug\ADOProcedureEmployee.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\ADOProcedureEmployee\ADOProcedureEmployee\obj\Debug\ADOProcedureEmployee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manasi\source\repos\ADOProcedureEmployee\ADOProcedureEmployee\obj\Debug\ADOProcedureEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\ADOProcedureEmployee\ADOProcedureEmployee\obj\Debug\ADOProcedureEmployee.exe
+C:\Users\Manasi\source\repos\ADOProcedureEmployee\ADOProcedureEmployee\obj\Debug\ADOProcedureEmployee.pdb
