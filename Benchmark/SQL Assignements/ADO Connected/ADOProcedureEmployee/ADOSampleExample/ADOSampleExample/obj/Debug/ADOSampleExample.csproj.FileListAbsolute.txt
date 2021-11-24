@@ -1,0 +1,8 @@
+C:\Users\Manasi\source\repos\ADOSampleExample\ADOSampleExample\obj\Debug\ADOSampleExample.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\ADOSampleExample\ADOSampleExample\obj\Debug\ADOSampleExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manasi\source\repos\ADOSampleExample\ADOSampleExample\obj\Debug\ADOSampleExample.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\ADOSampleExample\ADOSampleExample\bin\Debug\ADOSampleExample.exe.config
+C:\Users\Manasi\source\repos\ADOSampleExample\ADOSampleExample\bin\Debug\ADOSampleExample.exe
+C:\Users\Manasi\source\repos\ADOSampleExample\ADOSampleExample\bin\Debug\ADOSampleExample.pdb
+C:\Users\Manasi\source\repos\ADOSampleExample\ADOSampleExample\obj\Debug\ADOSampleExample.exe
+C:\Users\Manasi\source\repos\ADOSampleExample\ADOSampleExample\obj\Debug\ADOSampleExample.pdb
