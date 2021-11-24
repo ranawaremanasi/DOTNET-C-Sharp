@@ -1,0 +1,157 @@
+-- Get all Employee Details
+
+USE [EmployeeDB]
+GO
+/****** Object:  StoredProcedure [dbo].[Get_EmployeeData]    Script Date: 24-11-2021 13:59:06 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[Get_EmployeeData]
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	SELECT * from Employee
+END
+
+
+
+-- Get Employee Details based on specific eno
+
+USE [EmployeeDB]
+GO
+/****** Object:  StoredProcedure [dbo].[GetEmpUsingEmpno]    Script Date: 24-11-2021 13:59:42 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[GetEmpUsingEmpno] 
+	-- Add the parameters for the stored procedure here
+	(@eno int)
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	SELECT * from employee where eno =@eno
+END
+
+
+
+-- Insert Employee Details into the table
+
+USE [EmployeeDB]
+GO
+/****** Object:  StoredProcedure [dbo].[InsertEmployee]    Script Date: 24-11-2021 14:01:38 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[InsertEmployee]
+	-- Add the parameters for the stored procedure here
+	(@eno int, 
+	@ename varchar(200), 
+	@designation varchar(200),
+	@sal decimal(6,2),
+	@deptno int)
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	Insert into Employee values (@eno,@ename,@designation,@sal,@deptno)
+	print 'Employee Details inserted into table'
+END
+
+
+
+-- Update Employee Details
+
+USE [EmployeeDB]
+GO
+/****** Object:  StoredProcedure [dbo].[UpdateEmployee]    Script Date: 24-11-2021 14:02:10 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[UpdateEmployee]
+	-- Add the parameters for the stored procedure here
+			(@eno int,
+			@ename varchar(200),
+			@designation varchar(200),
+			@sal decimal(6,2),
+			@deptno int)
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	update employee 
+	set 
+	ename=@ename,
+	designation=@designation,
+	salary=@sal,
+	deptno=@deptno
+	where eno=@eno
+	print 'Employee Details Updated into table'
+END
+
+
+-- Delete Employee Details based on specific eno
+
+USE [EmployeeDB]
+GO
+/****** Object:  StoredProcedure [dbo].[DeleteUsingEmpno]    Script Date: 24-11-2021 11:53:16 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[DeleteUsingEmpno] 
+	-- Add the parameters for the stored procedure here
+	(@eno int)
+	AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	Delete from employee where eno=@eno
+END
+
+
