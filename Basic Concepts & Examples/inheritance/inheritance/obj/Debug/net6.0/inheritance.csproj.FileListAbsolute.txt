@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\inheritance\inheritance\bin\Debug\net6.0\inheritance.exe
+C:\Users\Manasi\source\repos\inheritance\inheritance\bin\Debug\net6.0\inheritance.deps.json
+C:\Users\Manasi\source\repos\inheritance\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+C:\Users\Manasi\source\repos\inheritance\inheritance\bin\Debug\net6.0\inheritance.dll
+C:\Users\Manasi\source\repos\inheritance\inheritance\bin\Debug\net6.0\ref\inheritance.dll
+C:\Users\Manasi\source\repos\inheritance\inheritance\bin\Debug\net6.0\inheritance.pdb
+C:\Users\Manasi\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.dll
+C:\Users\Manasi\source\repos\inheritance\inheritance\obj\Debug\net6.0\ref\inheritance.dll
+C:\Users\Manasi\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.pdb
+C:\Users\Manasi\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
