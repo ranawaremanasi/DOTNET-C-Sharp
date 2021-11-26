@@ -1,0 +1,14 @@
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\bin\Debug\net6.0\EmpTostring.exe
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\bin\Debug\net6.0\EmpTostring.deps.json
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\bin\Debug\net6.0\EmpTostring.runtimeconfig.json
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\bin\Debug\net6.0\EmpTostring.dll
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\bin\Debug\net6.0\ref\EmpTostring.dll
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\bin\Debug\net6.0\EmpTostring.pdb
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\obj\Debug\net6.0\EmpTostring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\obj\Debug\net6.0\EmpTostring.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\obj\Debug\net6.0\EmpTostring.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\obj\Debug\net6.0\EmpTostring.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\obj\Debug\net6.0\EmpTostring.dll
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\obj\Debug\net6.0\ref\EmpTostring.dll
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\obj\Debug\net6.0\EmpTostring.pdb
+C:\Users\Manasi\source\repos\EmpTostring\EmpTostring\obj\Debug\net6.0\EmpTostring.genruntimeconfig.cache
