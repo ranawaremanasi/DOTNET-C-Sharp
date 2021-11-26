@@ -1,0 +1,15 @@
+C:\Users\Manasi\source\repos\DateToString\DateToString\bin\Debug\net6.0\DateToString.exe
+C:\Users\Manasi\source\repos\DateToString\DateToString\bin\Debug\net6.0\DateToString.deps.json
+C:\Users\Manasi\source\repos\DateToString\DateToString\bin\Debug\net6.0\DateToString.runtimeconfig.json
+C:\Users\Manasi\source\repos\DateToString\DateToString\bin\Debug\net6.0\DateToString.dll
+C:\Users\Manasi\source\repos\DateToString\DateToString\bin\Debug\net6.0\ref\DateToString.dll
+C:\Users\Manasi\source\repos\DateToString\DateToString\bin\Debug\net6.0\DateToString.pdb
+C:\Users\Manasi\source\repos\DateToString\DateToString\obj\Debug\net6.0\DateToString.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\DateToString\DateToString\obj\Debug\net6.0\DateToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\DateToString\DateToString\obj\Debug\net6.0\DateToString.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\DateToString\DateToString\obj\Debug\net6.0\DateToString.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\DateToString\DateToString\obj\Debug\net6.0\DateToString.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\DateToString\DateToString\obj\Debug\net6.0\DateToString.dll
+C:\Users\Manasi\source\repos\DateToString\DateToString\obj\Debug\net6.0\ref\DateToString.dll
+C:\Users\Manasi\source\repos\DateToString\DateToString\obj\Debug\net6.0\DateToString.pdb
+C:\Users\Manasi\source\repos\DateToString\DateToString\obj\Debug\net6.0\DateToString.genruntimeconfig.cache
