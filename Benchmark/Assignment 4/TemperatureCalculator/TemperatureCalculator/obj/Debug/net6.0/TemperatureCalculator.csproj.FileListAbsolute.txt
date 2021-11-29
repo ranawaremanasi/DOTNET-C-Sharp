@@ -1,0 +1,11 @@
+C:\Users\Manasi\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net6.0\TemperatureCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net6.0\TemperatureCalculator.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net6.0\TemperatureCalculator.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net6.0\TemperatureCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Manasi\source\repos\TemperatureCalculator\TemperatureCalculator\bin\Debug\net6.0\TemperatureCalculator.deps.json
+C:\Users\Manasi\source\repos\TemperatureCalculator\TemperatureCalculator\bin\Debug\net6.0\TemperatureCalculator.dll
+C:\Users\Manasi\source\repos\TemperatureCalculator\TemperatureCalculator\bin\Debug\net6.0\ref\TemperatureCalculator.dll
+C:\Users\Manasi\source\repos\TemperatureCalculator\TemperatureCalculator\bin\Debug\net6.0\TemperatureCalculator.pdb
+C:\Users\Manasi\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net6.0\TemperatureCalculator.dll
+C:\Users\Manasi\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net6.0\ref\TemperatureCalculator.dll
+C:\Users\Manasi\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net6.0\TemperatureCalculator.pdb

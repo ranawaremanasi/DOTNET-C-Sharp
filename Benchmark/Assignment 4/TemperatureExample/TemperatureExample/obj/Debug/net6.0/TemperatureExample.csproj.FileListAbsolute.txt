@@ -1,0 +1,5 @@
+C:\Users\Manasi\source\repos\TemperatureExample\TemperatureExample\obj\Debug\net6.0\TemperatureExample.csproj.AssemblyReference.cache
+C:\Users\Manasi\source\repos\TemperatureExample\TemperatureExample\obj\Debug\net6.0\TemperatureExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manasi\source\repos\TemperatureExample\TemperatureExample\obj\Debug\net6.0\TemperatureExample.AssemblyInfoInputs.cache
+C:\Users\Manasi\source\repos\TemperatureExample\TemperatureExample\obj\Debug\net6.0\TemperatureExample.AssemblyInfo.cs
+C:\Users\Manasi\source\repos\TemperatureExample\TemperatureExample\obj\Debug\net6.0\TemperatureExample.csproj.CoreCompileInputs.cache
