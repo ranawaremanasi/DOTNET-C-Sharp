@@ -1,0 +1,67 @@
+﻿@model MVCApp.Models.DepartmentModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DeleteDept</title>
+</head>
+<body>
+    <h3>Are you sure you want to delete this?</h3>
+    <div>
+        @using (Html.BeginForm())
+        { 
+        <h4>DepartmentModel</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.deptno)
+
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.deptno)
+                @Html.HiddenFor(model => model.deptno, new { id="hdndno"})
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.dname)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.dname)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.location)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.location)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.dhead)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.dhead)
+            </dd>
+    
+        </dl>
+    
+       
+    
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-default" /> |
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+        }
+    </div>
+</body>
+</html>
