@@ -11,10 +11,10 @@ namespace WEB_API_Demo.Controllers
     public class DemoController : ApiController
     {
         //GET api/<controller>
-        public string get()
-        {
-            return "Welcome to My First WEB-API";
-        }
+        //public string get()
+        //{
+        //    return "Welcome to My First WEB-API";
+        //}
 
         // GET api/<controller>/5
         public List<string> get(int id)
