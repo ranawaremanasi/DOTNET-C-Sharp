@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="EmployeeDBModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Department">
+          <Key>
+            <PropertyRef Name="deptno" />
+          </Key>
+          <Property Name="deptno" Type="int" Nullable="false" />
+          <Property Name="deptname" Type="nvarchar" MaxLength="200" />
+          <Property Name="joindate" Type="date" />
+        </EntityType>
+        <EntityType Name="Employee">
+          <Key>
+            <PropertyRef Name="eno" />
+          </Key>
+          <Property Name="eno" Type="int" Nullable="false" />
+          <Property Name="ename" Type="varchar" MaxLength="200" />
+          <Property Name="designation" Type="varchar" MaxLength="200" />
+          <Property Name="salary" Type="decimal" Precision="6" Scale="2" />
+          <Property Name="deptno" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Login_Table1">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="LoginName" Type="varchar" MaxLength="50" />
+          <Property Name="Password" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK_Employee_Department">
+          <End Role="Employee" Type="Self.Employee" Multiplicity="1" />
+          <End Role="Employee1" Type="Self.Employee" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Employee">
+              <PropertyRef Name="eno" />
+            </Principal>
+            <Dependent Role="Employee1">
+              <PropertyRef Name="eno" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Function Name="LoginProc" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="LoginName" Type="varchar" Mode="In" />
+          <Parameter Name="Password" Type="varchar" Mode="In" />
+        </Function>
+        <EntityContainer Name="EmployeeDBModel1StoreContainer">
+          <EntitySet Name="Department" EntityType="Self.Department" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Login_Table1" EntityType="Self.Login_Table1" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Employee_Department" Association="Self.FK_Employee_Department">
+            <End Role="Employee" EntitySet="Employee" />
+            <End Role="Employee1" EntitySet="Employee" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="EmployeeDBModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Department">
+          <Key>
+            <PropertyRef Name="deptno" />
+          </Key>
+          <Property Name="deptno" Type="Int32" Nullable="false" />
+          <Property Name="deptname" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+          <Property Name="joindate" Type="DateTime" Precision="0" />
+        </EntityType>
+        <EntityType Name="Employee">
+          <Key>
+            <PropertyRef Name="eno" />
+          </Key>
+          <Property Name="eno" Type="Int32" Nullable="false" />
+          <Property Name="ename" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Name="designation" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Name="salary" Type="Decimal" Precision="6" Scale="2" />
+          <Property Name="deptno" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Employee1" Relationship="Self.FK_Employee_Department" FromRole="Employee" ToRole="Employee1" />
+          <NavigationProperty Name="Employee2" Relationship="Self.FK_Employee_Department" FromRole="Employee1" ToRole="Employee" />
+        </EntityType>
+        <EntityType Name="Login_Table1">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="LoginName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <Association Name="FK_Employee_Department">
+          <End Role="Employee" Type="Self.Employee" Multiplicity="1" />
+          <End Role="Employee1" Type="Self.Employee" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Employee">
+              <PropertyRef Name="eno" />
+            </Principal>
+            <Dependent Role="Employee1">
+              <PropertyRef Name="eno" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="EmployeeDBEntities3" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Departments" EntityType="Self.Department" />
+          <EntitySet Name="Employees" EntityType="Self.Employee" />
+          <EntitySet Name="Login_Table1" EntityType="Self.Login_Table1" />
+          <AssociationSet Name="FK_Employee_Department" Association="Self.FK_Employee_Department">
+            <End Role="Employee" EntitySet="Employees" />
+            <End Role="Employee1" EntitySet="Employees" />
+          </AssociationSet>
+          <FunctionImport Name="LoginProc" ReturnType="Collection(EmployeeDBModel1.LoginProc_Result)">
+            <Parameter Name="LoginName" Mode="In" Type="String" />
+            <Parameter Name="Password" Mode="In" Type="String" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="LoginProc_Result">
+          <Property Type="Int32" Name="id" Nullable="false" />
+          <Property Type="String" Name="LoginName" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="Password" Nullable="true" MaxLength="50" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="EmployeeDBModel1StoreContainer" CdmEntityContainer="EmployeeDBEntities3">
+          <EntitySetMapping Name="Departments">
+            <EntityTypeMapping TypeName="EmployeeDBModel1.Department">
+              <MappingFragment StoreEntitySet="Department">
+                <ScalarProperty Name="deptno" ColumnName="deptno" />
+                <ScalarProperty Name="deptname" ColumnName="deptname" />
+                <ScalarProperty Name="joindate" ColumnName="joindate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Employees">
+            <EntityTypeMapping TypeName="EmployeeDBModel1.Employee">
+              <MappingFragment StoreEntitySet="Employee">
+                <ScalarProperty Name="eno" ColumnName="eno" />
+                <ScalarProperty Name="ename" ColumnName="ename" />
+                <ScalarProperty Name="designation" ColumnName="designation" />
+                <ScalarProperty Name="salary" ColumnName="salary" />
+                <ScalarProperty Name="deptno" ColumnName="deptno" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Login_Table1">
+            <EntityTypeMapping TypeName="EmployeeDBModel1.Login_Table1">
+              <MappingFragment StoreEntitySet="Login_Table1">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="LoginName" ColumnName="LoginName" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="LoginProc" FunctionName="EmployeeDBModel1.Store.LoginProc">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="EmployeeDBModel1.LoginProc_Result">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="LoginName" ColumnName="LoginName" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
