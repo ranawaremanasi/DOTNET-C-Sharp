@@ -1,3 +1,5 @@
+//4)write a function to find max of  array number function should take array as a parameter  and return max value
+
 function getMaxOfArray(numArray:number[]) {
     return Math.max.apply(null, numArray);
   }
