@@ -1,3 +1,7 @@
+//1) Write a typescript function to perform arithmetic operation
+//Function should have 3 arg op1,op2,operator
+
+
 function calculate(num1:number,num2:number,op:String)
 {
     if(op.charAt(0)=='+')
