@@ -27,11 +27,13 @@ console.log(this.rollno+"     "+this.stud_name+"    "+this.math+"     "+this.phy
 
 }
 
-let stud=new Student(1,'Manasi',60,56,78);
+let stud=new Student(1,'Manasi',90,99,78);
 stud.calculate();
 stud.display();
 
-let marks=[60,56,78];
+function percentage():void{
+
+let marks=[90,99,78];
  
 let max_marks = marks.length * 100;
  
@@ -66,6 +68,6 @@ let total = 0;
                     }
                 }
             }
-        }
-   
-       console.log(percentage+" "+grade);
+        }console.log(percentage+" "+grade);
+    }percentage();
+         
