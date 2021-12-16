@@ -16,36 +16,39 @@ var Student = /** @class */ (function () {
     };
     return Student;
 }());
-var stud = new Student(1, 'Manasi', 60, 56, 78);
+var stud = new Student(1, 'Manasi', 90, 99, 78);
 stud.calculate();
 stud.display();
-var marks = [60, 56, 78];
-var max_marks = marks.length * 100;
-var total = 0;
-var grade = 'F';
-for (var i = 0; i < marks.length; i++) {
-    total += marks[i];
-}
-var percentage = ((total) / max_marks) * 100;
-if (percentage >= 90) {
-    grade = 'A';
-}
-else {
-    if (percentage >= 80 && percentage <= 89) {
-        grade = 'B';
+function percentage() {
+    var marks = [90, 99, 78];
+    var max_marks = marks.length * 100;
+    var total = 0;
+    var grade = 'F';
+    for (var i = 0; i < marks.length; i++) {
+        total += marks[i];
+    }
+    var percentage = ((total) / max_marks) * 100;
+    if (percentage >= 90) {
+        grade = 'A';
     }
     else {
-        if (percentage >= 60 && percentage <= 79) {
-            grade = 'C';
+        if (percentage >= 80 && percentage <= 89) {
+            grade = 'B';
         }
         else {
-            if (percentage >= 33 && percentage <= 59) {
-                grade = 'D';
+            if (percentage >= 60 && percentage <= 79) {
+                grade = 'C';
             }
             else {
-                grade = 'F';
+                if (percentage >= 33 && percentage <= 59) {
+                    grade = 'D';
+                }
+                else {
+                    grade = 'F';
+                }
             }
         }
     }
+    console.log(percentage + " " + grade);
 }
-console.log(percentage + " " + grade);
+percentage();
