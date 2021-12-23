@@ -1,0 +1,97 @@
+<p>toggle-button works!</p>
+<!-- <body>
+    5.Create Person Array which contain {id,name,salary,city} 
+    display person on browser take one button if button is ON 
+    then display data in blue color otherwise display it in red color.
+</body>
+    -->
+    <div style="text-align:center">
+    <table class='table'>
+        <tr>
+            <th>person_IDNumber</th>
+            <th>person_Name</th>
+            <th>person_City</th>
+            <th>person_Salary</th>
+        </tr>
+    
+        <!-- <tr *ngFor= 'let cr of person;'>
+            <td>{{cr.Id}}</td>
+            <td>{{cr.person_Name}</td>
+            <td>{{cr.person_City}}</td>
+            <td>{{cr.person_Salary}}</td>
+        </tr>
+     -->
+        <tr *ngFor= 'let cr of person;let i=index;'>
+        <ng-template [ngIf]=i%2>
+            <td >{{i}}</td>
+            <td>{{cr.Id}}</td>
+            <td>{{cr.person_Name}}</td>
+            <td>{{cr.person_City}}</td>
+            <td>{{cr.person_Salary}}</td>
+        </ng-template>
+        </tr>
+    
+        <tr *ngIf= '!person||person.length==0'>
+            <td colspan='5'> No person Available </td>
+        </tr>
+    
+    
+    </table><br>
+
+    
+
+    <!-- Enter Color :<input type="text" [(ngModel)]= 'color'>
+    <div [ngSwitch]= "color">
+        <div *ngSwitchCase= "'red'"><h1 style='color:red'>You selected red person</h1></div>
+        <div *ngSwitchCase= "'blue'"><h1 style='color:blue'>You selected blue person</h1></div>
+        <div *ngSwitchCase= "'white'"><h1 style='color:black'>You selected white person</h1></div>
+        <div *ngSwitchCase= "'green'"><h1 style='color:rgb(24, 243, 53)'>You selected maroon person</h1></div>
+        <div *ngSwitchCase= "'violet'"><h1 style='color:violet'>You selected violet person</h1></div>
+        <div *ngSwitchCase= "'palegreen'"><h1 style='color:palegreen'>You selected palegreen person</h1></div>
+        <div *ngSwitchDefault>Please Select Again</div>
+    </div> -->
+
+    <div class="radio">  
+        <label>  
+            <input type="radio" name="btn1" value="on" (click)="setradio('on')" [checked]='true' ngModel>  
+           on  
+        </label>  
+    </div>  
+    <div class="radio">  
+        <label>  
+            <input type="radio" name="btn1" value="off" (click)="setradio('off')" ngModel>  
+            off 
+        </label>  
+    </div>  
+
+    <h2>
+<div *ngIf="isSelected('on')" >  
+ On radio button selected  Red Color will Appear 
+ <tr *ngFor= 'let cr of person;let i=index;' style="text-align:center">
+    <ng-template [ngIf]=i%2>
+        <td >{{i}}</td>
+        <td>{{cr.Id}}</td>
+        <td>{{cr.person_Name}}</td>
+        <td>{{cr.person_City}}</td>
+        <td>{{cr.person_Salary}}</td>
+    </ng-template>
+    </tr>
+</div>  </h2>
+
+<h3>
+<div *ngIf="isSelected('off')">  
+ Off radio button selected  Blue color will Appear
+ <tr *ngFor= 'let cr of person;let i=index;' style="text-align:center">
+    <ng-template [ngIf]=i%2>
+        <td >{{i}}</td>
+        <td>{{cr.Id}}</td>
+        <td>{{cr.person_Name}}</td>
+        <td>{{cr.person_City}}</td>
+        <td>{{cr.person_Salary}}</td>
+    </ng-template>
+    </tr>
+</div>   </h3>
+    
+
+</div>
+
